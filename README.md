@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Obed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://github.com/fantasmagg/images/blob/main/im/mm.png?raw=true"></a>
+  <a href=""><img src="https://github.com/fantasmagg/fantasmagg/blob/main/img/mm.png?raw=true"></a>
 </p>
 
 
@@ -8,9 +8,9 @@
 
 
 	
-## <picture><img src = "https://github.com/fantasmagg/images/blob/main/im/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/fantasmagg/fantasmagg/blob/main/img/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -23,7 +23,7 @@
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/fantasmagg/fantasmagg/blob/main/img/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:obedsilvestre339@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/fantasmagg"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -34,7 +34,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/fantasmagg/images/blob/main/im/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/fantasmagg/images/blob/main/im/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -71,7 +71,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/fantasmagg/images/blob/main/im/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -98,7 +98,7 @@
     <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
 </p>
 
- ### <picture> <img src = "https://github.com/fantasmagg/images/blob/main/im/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -109,7 +109,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/fantasmagg/images/blob/main/im/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
