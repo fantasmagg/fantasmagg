@@ -71,13 +71,9 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+
+### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/backend.gif?raw=true" width = 50px>  </picture> Backend Development
+<p align="center"> 
   &emsp;
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20boot-%23f9f9f1?style=flat-square&logo=springboot"></a>
   &emsp;
@@ -86,6 +82,15 @@
    <a href="#"><img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%23cc2649?style=flat-square&logo=nestjs" /></a>
   &emsp;
    <a href="#"><img alt="Dotnet" img src="https://img.shields.io/badge/-%2302031a?style=flat-square&logo=dotnet"></a>
+</p>
+
+ ### <picture> <img src = "https://github.com/fantasmagg/fantasmagg/blob/main/img/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="PostgresSql" src="https://img.shields.io/badge/postgresql-%23ebdfcc?style=flat-square&logo=postgresql"></a>
   &emsp;
